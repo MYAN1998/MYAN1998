@@ -1,5 +1,4 @@
-### Hi I'am MYAN 👋
-
+### Hi I'am MYAN 👋 ✨Hwelcome to my channel✨</br>
 <!--
 **MYAN1998/MYAN1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,17 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ✨How to contact me:✨</br>
+### ✨How to contact me:✨</br>
 - 📫:<a href="mailto:zhouenpei980523@163.com">This is my email address</a></br>
 - 💖:<a href="https://zhouenpei0523.top/">This is my blog</a></br>
-## ✨Welcome to my channel✨</br>
- <img src="https://count.getloli.com/get/@:myan1998?theme=gelbooru-h"/></br>
-## ✨Here is some information about me:✨</br>
+### ✨Here is some information about me:✨</br>
 <div style="inline-block;">
     <img  width:"100%" src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=tokyonight"/>
 </div>
 
-## ✨Here is my GitHub Readme Activity Graph:✨</br>
+### ✨Here is my GitHub Readme Activity Graph:✨</br>
 <div>
     <img  src="https://activity-graph.herokuapp.com/graph?username=MYAN1998&theme=react-dark"/>
 </div>
