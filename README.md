@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me: <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=XTgzLTg0JzUyKB0sLHM_MjA" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
-<div align="right">
+📫 How to reach me: <a href="mailto:1455316479@qq.com">hello</a>
+<div>
     <img  src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=tokyonight"/>
 </div>
 
