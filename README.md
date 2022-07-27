@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 - 💖:<a href="https://zhouenpei0523.top/">This is my blog</a></br>
 ## ✨Here is some information about me:✨</br>
 <div style="inline-block;">
-    <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=tokyonight"/>
-    <img  height="199.33px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myan1998&theme=tokyonight&layout=compact"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=tokyonight"/>
+    <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myan1998&theme=tokyonight&layout=compact"/>
 </div>
 
 ## ✨Here is my GitHub Readme Activity Graph:✨</br>
 <div>
-    <img  width="932px" src="https://activity-graph.herokuapp.com/graph?username=MYAN1998&theme=react-dark"/>
+    <img  width="912px" src="https://activity-graph.herokuapp.com/graph?username=MYAN1998&theme=react-dark"/>
 </div>
     
 
