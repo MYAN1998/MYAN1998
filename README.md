@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'am MYAN 👋
 
 <!--
 **MYAN1998/MYAN1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-    <img src="https://metrics.lecoq.io/insights/MYAN1998">
+
+
+<div style="float:right">
+    <img src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=tokyonight"/>
 </div>
+<div>
+    <img  src="https://activity-graph.herokuapp.com/graph?username=MYAN1998&theme=react-dark"/>
+</div>
+    
+
+
