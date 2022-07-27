@@ -1,4 +1,4 @@
-## Hi I'am MYAN 👋 ✨Welcome to my channel✨</br>
+## Hi ! I'am MYAN 👋 
 <!--
 **MYAN1998/MYAN1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### ✨Welcome to my channel✨</br>
+![:MYAN1998](https://count.getloli.com/get/@:MYAN1998?theme=gelbooru-h)
 ### ✨How to contact me:✨</br>
 - 📫:<a href="mailto:zhouenpei980523@163.com">This is my email address</a></br>
 - 💖:<a href="https://zhouenpei0523.top/">This is my blog</a></br>
