@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫:<a href="mailto:zhouenpei980523@163.com">This is my email address</a></br>
 - 💖:<a href="https://zhouenpei0523.top/">This is my blog</a></br>
 ## ✨Welcome to my channel✨</br>
- <img src="https://count.getloli.com/get/@:myan1998?THEME=gelbooru-h"/>
+ <img src="https://count.getloli.com/get/@:myan1998?theme=gelbooru-h"/></br>
 ## ✨Here is some information about me:✨</br>
 <div style="inline-block;">
     <img  width:"100%" src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=tokyonight"/>
