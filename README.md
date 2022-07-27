@@ -14,13 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me: <a href="mailto:1455316479@qq.com">hello</a>
-<div>
-    <img  src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=tokyonight"/>
+## ✨How to reach me:✨</br>
+- 📫:<a href="mailto:zhouenpei980523@163.com">This is my email address</a></br>
+- 💖:<a href="https://zhouenpei0523.top/">This is my blog</a></br>
+## ✨Here is some information about me:✨</br>
+<div style="inline-block;">
+    <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=tokyonight"/>
+    <img  height="199.33px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myan1998&theme=tokyonight&layout=compact"/>
 </div>
 
+## ✨Here is my GitHub Readme Activity Graph:✨</br>
 <div>
-    <img  src="https://activity-graph.herokuapp.com/graph?username=MYAN1998&theme=react-dark"/>
+    <img  width="932px" src="https://activity-graph.herokuapp.com/graph?username=MYAN1998&theme=react-dark"/>
 </div>
     
 
