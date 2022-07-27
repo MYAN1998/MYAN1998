@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ✨How to reach me:✨</br>
+## ✨How to contact me:✨</br>
 - 📫:<a href="mailto:zhouenpei980523@163.com">This is my email address</a></br>
 - 💖:<a href="https://zhouenpei0523.top/">This is my blog</a></br>
 ## ✨Welcome to my channel✨</br>
