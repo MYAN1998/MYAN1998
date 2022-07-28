@@ -17,14 +17,24 @@ Here are some ideas to get you started:
 - 📫:<a href="mailto:zhouenpei980523@163.com">This is my email address</a></br>
 - 💖:<a href="https://zhouenpei0523.top/">This is my blog</a></br>
 ### ✨Welcome to my channel✨</br>
-![:MYAN1998](https://count.getloli.com/get/@:MYAN1998?theme=gelbooru-h)</br>
-### ✨Here is some information about me:✨</br>
-<div style="inline-block;">
-    <img  width:"100%" src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=tokyonight"/>
+<div align="center">
+    <img  src="https://count.getloli.com/get/@:MYAN1998?theme=gelbooru-h#pic_center"/>
+</div></br>
+### ✨Here is my GitHub streak:✨</br>
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=holi-theme"/>
 </div>
-
+### ✨Here is some information about me:✨</br>
+<div align="center">
+    <img  height="137px" src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=tokyonight"/>
+    <img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYAN1998&layout=compact&theme=tokyonight"/>
+</div></br>
+### ✨Here is my Github Profile Trophy:✨</br>
+<div align="center">
+    <img  height="137px" src="https://github-profile-trophy.vercel.app/?username=MYAN1998&theme=algolia"/>
+</div></br>
 ### ✨Here is my GitHub Readme Activity Graph:✨</br>
-<div>
+<div align="center">
     <img  src="https://activity-graph.herokuapp.com/graph?username=MYAN1998&theme=react-dark"/>
 </div>
     
