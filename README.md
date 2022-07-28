@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 - 💖:<a href="https://zhouenpei0523.top/">This is my blog</a></br>
 ### ✨Welcome to my channel✨</br>
 <div align="center">
-    <img  src="https://count.getloli.com/get/@:MYAN1998?theme=gelbooru-h#pic_center"/>
+    <img  src="https://count.getloli.com/get/@:MYAN1998?theme=gelbooru-h"/>
 </div></br>
 ### ✨Here is my GitHub streak:✨</br>
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=holi-theme"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=solarized-light"/>
 </div>
 ### ✨Here is some information about me:✨</br>
 <div align="center">
-    <img  height="137px" src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=tokyonight"/>
-    <img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYAN1998&layout=compact&theme=tokyonight"/>
+    <img  height="137px" src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=solarized-light"/>
+    <img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYAN1998&layout=compact&theme=solarized-light"/>
 </div></br>
 ### ✨Here is contributions:✨</br>
 <div align="center">
@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 </div></br>
 ### ✨Here is my Github Profile Trophy:✨</br>
 <div align="center">
-    <img  height="137px" src="https://github-profile-trophy.vercel.app/?username=MYAN1998&theme=algolia"/>
+    <img  height="137px" src="https://github-profile-trophy.vercel.app/?username=MYAN1998&theme=oldie"/>
 </div></br>
 ### ✨Here is my GitHub Readme Activity Graph:✨</br>
 <div align="center">
-    <img  src="https://activity-graph.herokuapp.com/graph?username=MYAN1998&theme=react-dark"/>
+    <img  src="https://activity-graph.herokuapp.com/graph?username=MYAN1998&theme=lucent"/>
 </div>
 
 
