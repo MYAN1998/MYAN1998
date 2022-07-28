@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img  src="https://img.shields.io/badge/html5-html5-blue?logo=html5"/>
 </div></br>
 
-- 💻工具:</br>
+- 💻所用工具:</br>
 <div align="center">
     <img  src="https://img.shields.io/badge/windows-windows-blue?logo=windows"/>
     <img  src="https://img.shields.io/badge/Linux-Linux-blue?logo=Linux"/>
