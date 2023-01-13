@@ -50,12 +50,6 @@ Here are some ideas to get you started:
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=prussian"/>
 </div>
 
-### ✨Here is some information about me:✨</br>
-<div align="center">
-    <img  height="137px" src="https://github-readme-stats.vercel.app/api?username=MYAN1998&theme=algolia"/>
-    <img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYAN1998&layout=compact&theme=algolia"/>
-</div></br>
-
 
 
  
