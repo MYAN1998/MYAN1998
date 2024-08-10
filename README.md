@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### ✨How to contact me:✨</br>
 - 📫:<a href="mailto:zhouenpei980523@163.com">This is my email address</a></br>
-- 💖:<a href="https://zhouenpei0523.top/">This is my blog</a></br>
+- 💖:<a href="https://blog.myan.run/">This is my blog</a></br>
 ### ✨Welcome to my channel✨</br>
 - 🧾计划学习:</br>
 <div align="center">
